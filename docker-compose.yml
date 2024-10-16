@@ -1,0 +1,30 @@
+version: '3'
+
+services:
+  # Servicio para la aplicación de React (Vite)
+  app:
+    image: node:18-alpine
+    working_dir: /app
+    volumes:
+      - ./:/app
+    command: sh -c "npm install && npm run build"
+    networks:
+      - web
+
+  # Servicio de Nginx para servir la aplicación de React
+  nginx:
+    image: nginx:alpine
+    volumes:
+      - ./nginx.conf:/etc/nginx/nginx.conf
+      - ./dist:/usr/share/nginx/html
+    ports:
+      - "0.0.0.0:8789:80"
+    depends_on:
+      - app
+    networks:
+      - web
+
+# Red compartida entre los servicios
+networks:
+  web:
+    driver: bridge

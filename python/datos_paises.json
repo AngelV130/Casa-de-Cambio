@@ -1,0 +1,2839 @@
+[
+    {
+        "nombre_oficial": "Georgia del Sur y las Islas Sandwich del Sur",
+        "url_imagen": "banderas/South Georgia.png",
+        "monedas": [
+            {
+                "codigo": "SHP",
+                "simbolo": "£",
+                "valor_en_usd": 0.761794
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "Granada",
+        "url_imagen": "banderas/Grenada.png",
+        "monedas": [
+            {
+                "codigo": "XCD",
+                "simbolo": "$",
+                "valor_en_usd": 2.7
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "Confederación Suiza",
+        "url_imagen": "banderas/Switzerland.png",
+        "monedas": [
+            {
+                "codigo": "CHF",
+                "simbolo": "Fr.",
+                "valor_en_usd": 0.85174
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "República de Sierra Leona",
+        "url_imagen": "banderas/Sierra Leone.png",
+        "monedas": [
+            {
+                "codigo": "SLL",
+                "simbolo": "Le",
+                "valor_en_usd": 22586.330432
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "Hungría",
+        "url_imagen": "banderas/Hungary.png",
+        "monedas": [
+            {
+                "codigo": "HUF",
+                "simbolo": "Ft",
+                "valor_en_usd": 363.826318
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "República de China en Taiwán",
+        "url_imagen": "banderas/Taiwan.png",
+        "monedas": [
+            {
+                "codigo": "TWD",
+                "simbolo": "$",
+                "valor_en_usd": 32.015094
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "Territorio de las Islas Wallis y Futuna",
+        "url_imagen": "banderas/Wallis and Futuna.png",
+        "monedas": [
+            {
+                "codigo": "XPF",
+                "simbolo": "₣",
+                "valor_en_usd": 108.157978
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "Barbados",
+        "url_imagen": "banderas/Barbados.png",
+        "monedas": [
+            {
+                "codigo": "BBD",
+                "simbolo": "$",
+                "valor_en_usd": 2
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "Grupo de Islas Pitcairn",
+        "url_imagen": "banderas/Pitcairn Islands.png",
+        "monedas": [
+            {
+                "codigo": "NZD",
+                "simbolo": "$",
+                "valor_en_usd": 1.608238
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "República de Côte d'Ivoire",
+        "url_imagen": "banderas/Ivory Coast.png",
+        "monedas": [
+            {
+                "codigo": "XOF",
+                "simbolo": "Fr",
+                "valor_en_usd": 594.534431
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "República de Túnez",
+        "url_imagen": "banderas/Tunisia.png",
+        "monedas": [
+            {
+                "codigo": "TND",
+                "simbolo": "د.ت",
+                "valor_en_usd": 3.050863
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "República Italiana",
+        "url_imagen": "banderas/Italy.png",
+        "monedas": [
+            {
+                "codigo": "EUR",
+                "simbolo": "€",
+                "valor_en_usd": 0.906363
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "República de Benin",
+        "url_imagen": "banderas/Benin.png",
+        "monedas": [
+            {
+                "codigo": "XOF",
+                "simbolo": "Fr",
+                "valor_en_usd": 594.534431
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "República de Indonesia",
+        "url_imagen": "banderas/Indonesia.png",
+        "monedas": [
+            {
+                "codigo": "IDR",
+                "simbolo": "Rp",
+                "valor_en_usd": 15441.496546
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "República de Cabo Verde",
+        "url_imagen": "banderas/Cape Verde.png",
+        "monedas": [
+            {
+                "codigo": "CVE",
+                "simbolo": "Esc",
+                "valor_en_usd": 99.939995
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "Federación de San Cristóbal y Nevis",
+        "url_imagen": "banderas/Saint Kitts and Nevis.png",
+        "monedas": [
+            {
+                "codigo": "XCD",
+                "simbolo": "$",
+                "valor_en_usd": 2.7
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "República Democrática Popular Lao",
+        "url_imagen": "banderas/Laos.png",
+        "monedas": [
+            {
+                "codigo": "LAK",
+                "simbolo": "₭",
+                "valor_en_usd": 21964.230819
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "Bonaire, San Eustaquio y Saba",
+        "url_imagen": "banderas/Caribbean Netherlands.png",
+        "monedas": [
+            {
+                "codigo": "USD",
+                "simbolo": "$",
+                "valor_en_usd": 1
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "República de Uganda",
+        "url_imagen": "banderas/Uganda.png",
+        "monedas": [
+            {
+                "codigo": "UGX",
+                "simbolo": "Sh",
+                "valor_en_usd": 3672.998633
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "Principado de Andorra",
+        "url_imagen": "banderas/Andorra.png",
+        "monedas": [
+            {
+                "codigo": "EUR",
+                "simbolo": "€",
+                "valor_en_usd": 0.906363
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "República de Burundi",
+        "url_imagen": "banderas/Burundi.png",
+        "monedas": [
+            {
+                "codigo": "BIF",
+                "simbolo": "Fr",
+                "valor_en_usd": 2906.64596
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "República de Sudáfrica",
+        "url_imagen": "banderas/South Africa.png",
+        "monedas": [
+            {
+                "codigo": "ZAR",
+                "simbolo": "R",
+                "valor_en_usd": 17.493202
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "República francés",
+        "url_imagen": "banderas/France.png",
+        "monedas": [
+            {
+                "codigo": "EUR",
+                "simbolo": "€",
+                "valor_en_usd": 0.906363
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "Estado de Libia",
+        "url_imagen": "banderas/Libya.png",
+        "monedas": [
+            {
+                "codigo": "LYD",
+                "simbolo": "ل.د",
+                "valor_en_usd": 4.747201
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "Estados Unidos Mexicanos",
+        "url_imagen": "banderas/Mexico.png",
+        "monedas": [
+            {
+                "codigo": "MXN",
+                "simbolo": "$",
+                "valor_en_usd": 19.412767
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "República de Gabón",
+        "url_imagen": "banderas/Gabon.png",
+        "monedas": [
+            {
+                "codigo": "XAF",
+                "simbolo": "Fr",
+                "valor_en_usd": 594.534431
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "Mancomunidad de las Islas Marianas del Norte",
+        "url_imagen": "banderas/Northern Mariana Islands.png",
+        "monedas": [
+            {
+                "codigo": "USD",
+                "simbolo": "$",
+                "valor_en_usd": 1
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "República de Macedonia del Norte",
+        "url_imagen": "banderas/North Macedonia.png",
+        "monedas": [
+            {
+                "codigo": "MKD",
+                "simbolo": "den",
+                "valor_en_usd": 55.56626
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "República Popular de China",
+        "url_imagen": "banderas/China.png",
+        "monedas": [
+            {
+                "codigo": "CNY",
+                "simbolo": "¥",
+                "valor_en_usd": 7.036119
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "República de Yemen",
+        "url_imagen": "banderas/Yemen.png",
+        "monedas": [
+            {
+                "codigo": "YER",
+                "simbolo": "﷼",
+                "valor_en_usd": 250.193271
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "Colectividad de San Barthélemy",
+        "url_imagen": "banderas/Saint Barthélemy.png",
+        "monedas": [
+            {
+                "codigo": "EUR",
+                "simbolo": "€",
+                "valor_en_usd": 0.906363
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "Bailía de Guernsey",
+        "url_imagen": "banderas/Guernsey.png",
+        "monedas": [
+            {
+                "codigo": "GBP",
+                "simbolo": "£",
+                "valor_en_usd": 0.761781
+            },
+            {
+                "codigo": "GGP",
+                "simbolo": "£",
+                "valor_en_usd": 0.761794
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "islas Salomón",
+        "url_imagen": "banderas/Solomon Islands.png",
+        "monedas": [
+            {
+                "codigo": "SBD",
+                "simbolo": "$",
+                "valor_en_usd": 8.258038
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "Svalbard og Jan Mayen",
+        "url_imagen": "banderas/Svalbard and Jan Mayen.png",
+        "monedas": [
+            {
+                "codigo": "NOK",
+                "simbolo": "kr",
+                "valor_en_usd": 10.607495
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "Islas Feroe",
+        "url_imagen": "banderas/Faroe Islands.png",
+        "monedas": [
+            {
+                "codigo": "DKK",
+                "simbolo": "kr",
+                "valor_en_usd": 6.761529
+            },
+            {
+                "codigo": "FOK",
+                "simbolo": "kr",
+                "valor_en_usd": 6.761669
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "República de Uzbekistán",
+        "url_imagen": "banderas/Uzbekistan.png",
+        "monedas": [
+            {
+                "codigo": "UZS",
+                "simbolo": "so'm",
+                "valor_en_usd": 12728.858501
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "República Árabe de Egipto",
+        "url_imagen": "banderas/Egypt.png",
+        "monedas": [
+            {
+                "codigo": "EGP",
+                "simbolo": "£",
+                "valor_en_usd": 48.348291
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "República de Senegal",
+        "url_imagen": "banderas/Senegal.png",
+        "monedas": [
+            {
+                "codigo": "XOF",
+                "simbolo": "Fr",
+                "valor_en_usd": 594.534431
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "República Democrática Socialista de Sri Lanka",
+        "url_imagen": "banderas/Sri Lanka.png",
+        "monedas": [
+            {
+                "codigo": "LKR",
+                "simbolo": "Rs  රු",
+                "valor_en_usd": 294.02078
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "Estado de Palestina",
+        "url_imagen": "banderas/Palestine.png",
+        "monedas": [
+            {
+                "codigo": "EGP",
+                "simbolo": "E£",
+                "valor_en_usd": 48.348291
+            },
+            {
+                "codigo": "ILS",
+                "simbolo": "₪",
+                "valor_en_usd": 3.798453
+            },
+            {
+                "codigo": "JOD",
+                "simbolo": "JD",
+                "valor_en_usd": 0.709
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "República Popular de Bangladesh",
+        "url_imagen": "banderas/Bangladesh.png",
+        "monedas": [
+            {
+                "codigo": "BDT",
+                "simbolo": "৳",
+                "valor_en_usd": 119.499202
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "República de Perú",
+        "url_imagen": "banderas/Peru.png",
+        "monedas": [
+            {
+                "codigo": "PEN",
+                "simbolo": "S/ ",
+                "valor_en_usd": 3.725604
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "República de Singapur",
+        "url_imagen": "banderas/Singapore.png",
+        "monedas": [
+            {
+                "codigo": "SGD",
+                "simbolo": "$",
+                "valor_en_usd": 1.296981
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "República de Turquía",
+        "url_imagen": "banderas/Turkey.png",
+        "monedas": [
+            {
+                "codigo": "TRY",
+                "simbolo": "₺",
+                "valor_en_usd": 34.234075
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "República Islámica de Afganistán",
+        "url_imagen": "banderas/Afghanistan.png",
+        "monedas": [
+            {
+                "codigo": "AFN",
+                "simbolo": "؋",
+                "valor_en_usd": 68.656265
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "Aruba",
+        "url_imagen": "banderas/Aruba.png",
+        "monedas": [
+            {
+                "codigo": "AWG",
+                "simbolo": "ƒ",
+                "valor_en_usd": 1.79
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "Islas Cook",
+        "url_imagen": "banderas/Cook Islands.png",
+        "monedas": [
+            {
+                "codigo": "CKD",
+                "simbolo": "$",
+                "valor_en_usd": null
+            },
+            {
+                "codigo": "NZD",
+                "simbolo": "$",
+                "valor_en_usd": 1.608238
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "Reino Unido de Gran Bretaña e Irlanda del Norte",
+        "url_imagen": "banderas/United Kingdom.png",
+        "monedas": [
+            {
+                "codigo": "GBP",
+                "simbolo": "£",
+                "valor_en_usd": 0.761781
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "República de Zambia",
+        "url_imagen": "banderas/Zambia.png",
+        "monedas": [
+            {
+                "codigo": "ZMW",
+                "simbolo": "ZK",
+                "valor_en_usd": 26.345716
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "República de Finlandia",
+        "url_imagen": "banderas/Finland.png",
+        "monedas": [
+            {
+                "codigo": "EUR",
+                "simbolo": "€",
+                "valor_en_usd": 0.906363
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "República de Níger",
+        "url_imagen": "banderas/Niger.png",
+        "monedas": [
+            {
+                "codigo": "XOF",
+                "simbolo": "Fr",
+                "valor_en_usd": 594.534431
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "Territorio de la Isla de Navidad",
+        "url_imagen": "banderas/Christmas Island.png",
+        "monedas": [
+            {
+                "codigo": "AUD",
+                "simbolo": "$",
+                "valor_en_usd": 1.460584
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "Tokelau",
+        "url_imagen": "banderas/Tokelau.png",
+        "monedas": [
+            {
+                "codigo": "NZD",
+                "simbolo": "$",
+                "valor_en_usd": 1.608238
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "República de Guinea-Bissau",
+        "url_imagen": "banderas/Guinea-Bissau.png",
+        "monedas": [
+            {
+                "codigo": "XOF",
+                "simbolo": "Fr",
+                "valor_en_usd": 594.534431
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "República de Azerbaiyán",
+        "url_imagen": "banderas/Azerbaijan.png",
+        "monedas": [
+            {
+                "codigo": "AZN",
+                "simbolo": "₼",
+                "valor_en_usd": 1.700014
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "Isla de la Reunión",
+        "url_imagen": "banderas/Réunion.png",
+        "monedas": [
+            {
+                "codigo": "EUR",
+                "simbolo": "€",
+                "valor_en_usd": 0.906363
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "República de Djibouti",
+        "url_imagen": "banderas/Djibouti.png",
+        "monedas": [
+            {
+                "codigo": "DJF",
+                "simbolo": "Fr",
+                "valor_en_usd": 177.721
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "República Popular Democrática de Corea",
+        "url_imagen": "banderas/North Korea.png",
+        "monedas": [
+            {
+                "codigo": "KPW",
+                "simbolo": "₩",
+                "valor_en_usd": null
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "República de Mauricio",
+        "url_imagen": "banderas/Mauritius.png",
+        "monedas": [
+            {
+                "codigo": "MUR",
+                "simbolo": "₨",
+                "valor_en_usd": 46.250816
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "Montserrat",
+        "url_imagen": "banderas/Montserrat.png",
+        "monedas": [
+            {
+                "codigo": "XCD",
+                "simbolo": "$",
+                "valor_en_usd": 2.7
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "Islas Vírgenes de los Estados Unidos",
+        "url_imagen": "banderas/United States Virgin Islands.png",
+        "monedas": [
+            {
+                "codigo": "USD",
+                "simbolo": "$",
+                "valor_en_usd": 1
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "República de Colombia",
+        "url_imagen": "banderas/Colombia.png",
+        "monedas": [
+            {
+                "codigo": "COP",
+                "simbolo": "$",
+                "valor_en_usd": 4189.371099
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "República Helénica",
+        "url_imagen": "banderas/Greece.png",
+        "monedas": [
+            {
+                "codigo": "EUR",
+                "simbolo": "€",
+                "valor_en_usd": 0.906363
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "República de Croacia",
+        "url_imagen": "banderas/Croatia.png",
+        "monedas": [
+            {
+                "codigo": "EUR",
+                "simbolo": "€",
+                "valor_en_usd": 0.906363
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "Reino de Marruecos",
+        "url_imagen": "banderas/Morocco.png",
+        "monedas": [
+            {
+                "codigo": "MAD",
+                "simbolo": "د.م.",
+                "valor_en_usd": 9.775205
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "República Argelina Democrática y Popular",
+        "url_imagen": "banderas/Algeria.png",
+        "monedas": [
+            {
+                "codigo": "DZD",
+                "simbolo": "د.ج",
+                "valor_en_usd": 132.799613
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "Antártida",
+        "url_imagen": "banderas/Antarctica.png",
+        "monedas": []
+    },
+    {
+        "nombre_oficial": "Países Bajos",
+        "url_imagen": "banderas/Netherlands.png",
+        "monedas": [
+            {
+                "codigo": "EUR",
+                "simbolo": "€",
+                "valor_en_usd": 0.906363
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "República de Sudán",
+        "url_imagen": "banderas/Sudan.png",
+        "monedas": [
+            {
+                "codigo": "SDG",
+                "simbolo": "ج.س",
+                "valor_en_usd": 511.189165
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "República de Fiji",
+        "url_imagen": "banderas/Fiji.png",
+        "monedas": [
+            {
+                "codigo": "FJD",
+                "simbolo": "$",
+                "valor_en_usd": 2.194327
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "Principado de Liechtenstein",
+        "url_imagen": "banderas/Liechtenstein.png",
+        "monedas": [
+            {
+                "codigo": "CHF",
+                "simbolo": "Fr",
+                "valor_en_usd": 0.85174
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "República Democrática Federal de Nepal",
+        "url_imagen": "banderas/Nepal.png",
+        "monedas": [
+            {
+                "codigo": "NPR",
+                "simbolo": "₨",
+                "valor_en_usd": 134.427279
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "Asociado de Puerto Rico",
+        "url_imagen": "banderas/Puerto Rico.png",
+        "monedas": [
+            {
+                "codigo": "USD",
+                "simbolo": "$",
+                "valor_en_usd": 1
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "Georgia",
+        "url_imagen": "banderas/Georgia.png",
+        "monedas": [
+            {
+                "codigo": "GEL",
+                "simbolo": "₾",
+                "valor_en_usd": 2.732912
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "República Islámica de Pakistán",
+        "url_imagen": "banderas/Pakistan.png",
+        "monedas": [
+            {
+                "codigo": "PKR",
+                "simbolo": "₨",
+                "valor_en_usd": 277.99823
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "Principado de Mónaco",
+        "url_imagen": "banderas/Monaco.png",
+        "monedas": [
+            {
+                "codigo": "EUR",
+                "simbolo": "€",
+                "valor_en_usd": 0.906363
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "República de Botswana",
+        "url_imagen": "banderas/Botswana.png",
+        "monedas": [
+            {
+                "codigo": "BWP",
+                "simbolo": "P",
+                "valor_en_usd": 13.19666
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "República Libanesa",
+        "url_imagen": "banderas/Lebanon.png",
+        "monedas": [
+            {
+                "codigo": "LBP",
+                "simbolo": "ل.ل",
+                "valor_en_usd": 89500
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "Estado Independiente de Papúa Nueva Guinea",
+        "url_imagen": "banderas/Papua New Guinea.png",
+        "monedas": [
+            {
+                "codigo": "PGK",
+                "simbolo": "K",
+                "valor_en_usd": 3.941266
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "Departamento de Mayotte",
+        "url_imagen": "banderas/Mayotte.png",
+        "monedas": [
+            {
+                "codigo": "EUR",
+                "simbolo": "€",
+                "valor_en_usd": 0.906363
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "República Dominicana",
+        "url_imagen": "banderas/Dominican Republic.png",
+        "monedas": [
+            {
+                "codigo": "DOP",
+                "simbolo": "$",
+                "valor_en_usd": 60.385613
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "Territorio de la Isla Norfolk",
+        "url_imagen": "banderas/Norfolk Island.png",
+        "monedas": [
+            {
+                "codigo": "AUD",
+                "simbolo": "$",
+                "valor_en_usd": 1.460584
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "Isla Bouvet",
+        "url_imagen": "banderas/Bouvet Island.png",
+        "monedas": []
+    },
+    {
+        "nombre_oficial": "Estado de Qatar",
+        "url_imagen": "banderas/Qatar.png",
+        "monedas": [
+            {
+                "codigo": "QAR",
+                "simbolo": "ر.ق",
+                "valor_en_usd": 3.64
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "República de Madagascar",
+        "url_imagen": "banderas/Madagascar.png",
+        "monedas": [
+            {
+                "codigo": "MGA",
+                "simbolo": "Ar",
+                "valor_en_usd": 4555.548999
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "República de la India",
+        "url_imagen": "banderas/India.png",
+        "monedas": [
+            {
+                "codigo": "INR",
+                "simbolo": "₹",
+                "valor_en_usd": 84.017083
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "República Árabe Siria",
+        "url_imagen": "banderas/Syria.png",
+        "monedas": [
+            {
+                "codigo": "SYP",
+                "simbolo": "£",
+                "valor_en_usd": 12891.957986
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "Montenegro",
+        "url_imagen": "banderas/Montenegro.png",
+        "monedas": [
+            {
+                "codigo": "EUR",
+                "simbolo": "€",
+                "valor_en_usd": 0.906363
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "Reino de eSwatini",
+        "url_imagen": "banderas/Eswatini.png",
+        "monedas": [
+            {
+                "codigo": "SZL",
+                "simbolo": "L",
+                "valor_en_usd": 17.494565
+            },
+            {
+                "codigo": "ZAR",
+                "simbolo": "R",
+                "valor_en_usd": 17.493202
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "República de Paraguay",
+        "url_imagen": "banderas/Paraguay.png",
+        "monedas": [
+            {
+                "codigo": "PYG",
+                "simbolo": "₲",
+                "valor_en_usd": 7804.993818
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "República de El Salvador",
+        "url_imagen": "banderas/El Salvador.png",
+        "monedas": [
+            {
+                "codigo": "USD",
+                "simbolo": "$",
+                "valor_en_usd": 1
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "Ucrania",
+        "url_imagen": "banderas/Ukraine.png",
+        "monedas": [
+            {
+                "codigo": "UAH",
+                "simbolo": "₴",
+                "valor_en_usd": 41.205222
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "Isla de Man",
+        "url_imagen": "banderas/Isle of Man.png",
+        "monedas": [
+            {
+                "codigo": "GBP",
+                "simbolo": "£",
+                "valor_en_usd": 0.761781
+            },
+            {
+                "codigo": "IMP",
+                "simbolo": "£",
+                "valor_en_usd": 0.761794
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "República de Namibia",
+        "url_imagen": "banderas/Namibia.png",
+        "monedas": [
+            {
+                "codigo": "NAD",
+                "simbolo": "$",
+                "valor_en_usd": 17.494565
+            },
+            {
+                "codigo": "ZAR",
+                "simbolo": "R",
+                "valor_en_usd": 17.493202
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "Emiratos Árabes Unidos",
+        "url_imagen": "banderas/United Arab Emirates.png",
+        "monedas": [
+            {
+                "codigo": "AED",
+                "simbolo": "د.إ",
+                "valor_en_usd": 3.6725
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "República de Bulgaria",
+        "url_imagen": "banderas/Bulgaria.png",
+        "monedas": [
+            {
+                "codigo": "BGN",
+                "simbolo": "лв",
+                "valor_en_usd": 1.772588
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "Groenlandia",
+        "url_imagen": "banderas/Greenland.png",
+        "monedas": [
+            {
+                "codigo": "DKK",
+                "simbolo": "kr.",
+                "valor_en_usd": 6.761529
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "República Federal de Alemania",
+        "url_imagen": "banderas/Germany.png",
+        "monedas": [
+            {
+                "codigo": "EUR",
+                "simbolo": "€",
+                "valor_en_usd": 0.906363
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "Reino de Camboya",
+        "url_imagen": "banderas/Cambodia.png",
+        "monedas": [
+            {
+                "codigo": "KHR",
+                "simbolo": "៛",
+                "valor_en_usd": 4071.678007
+            },
+            {
+                "codigo": "USD",
+                "simbolo": "$",
+                "valor_en_usd": 1
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "República de Irak",
+        "url_imagen": "banderas/Iraq.png",
+        "monedas": [
+            {
+                "codigo": "IQD",
+                "simbolo": "ع.د",
+                "valor_en_usd": 1309.612757
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "Territorio del Francés Tierras australes y antárticas",
+        "url_imagen": "banderas/French Southern and Antarctic Lands.png",
+        "monedas": [
+            {
+                "codigo": "EUR",
+                "simbolo": "€",
+                "valor_en_usd": 0.906363
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "Reino de Suecia",
+        "url_imagen": "banderas/Sweden.png",
+        "monedas": [
+            {
+                "codigo": "SEK",
+                "simbolo": "kr",
+                "valor_en_usd": 10.302554
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "República de Cuba",
+        "url_imagen": "banderas/Cuba.png",
+        "monedas": [
+            {
+                "codigo": "CUC",
+                "simbolo": "$",
+                "valor_en_usd": null
+            },
+            {
+                "codigo": "CUP",
+                "simbolo": "$",
+                "valor_en_usd": 24
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "República Kirguisa",
+        "url_imagen": "banderas/Kyrgyzstan.png",
+        "monedas": [
+            {
+                "codigo": "KGS",
+                "simbolo": "с",
+                "valor_en_usd": 84.121622
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "Federación de Rusia",
+        "url_imagen": "banderas/Russia.png",
+        "monedas": [
+            {
+                "codigo": "RUB",
+                "simbolo": "₽",
+                "valor_en_usd": 94.935001
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "Malasia",
+        "url_imagen": "banderas/Malaysia.png",
+        "monedas": [
+            {
+                "codigo": "MYR",
+                "simbolo": "RM",
+                "valor_en_usd": 4.219814
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "República Democrática de Santo Tomé y Príncipe",
+        "url_imagen": "banderas/São Tomé and Príncipe.png",
+        "monedas": [
+            {
+                "codigo": "STN",
+                "simbolo": "Db",
+                "valor_en_usd": 22.205866
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "República de Chipre",
+        "url_imagen": "banderas/Cyprus.png",
+        "monedas": [
+            {
+                "codigo": "EUR",
+                "simbolo": "€",
+                "valor_en_usd": 0.906363
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "Canadá",
+        "url_imagen": "banderas/Canada.png",
+        "monedas": [
+            {
+                "codigo": "CAD",
+                "simbolo": "$",
+                "valor_en_usd": 1.35427
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "República de Malawi",
+        "url_imagen": "banderas/Malawi.png",
+        "monedas": [
+            {
+                "codigo": "MWK",
+                "simbolo": "MK",
+                "valor_en_usd": 1741.222086
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "Reino de Arabia Saudita",
+        "url_imagen": "banderas/Saudi Arabia.png",
+        "monedas": [
+            {
+                "codigo": "SAR",
+                "simbolo": "ر.س",
+                "valor_en_usd": 3.75
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "Bosnia y Herzegovina",
+        "url_imagen": "banderas/Bosnia and Herzegovina.png",
+        "monedas": [
+            {
+                "codigo": "BAM",
+                "simbolo": "KM",
+                "valor_en_usd": 1.77269
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "República Democrática Federal de Etiopía",
+        "url_imagen": "banderas/Ethiopia.png",
+        "monedas": [
+            {
+                "codigo": "ETB",
+                "simbolo": "Br",
+                "valor_en_usd": 118.037162
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "Reino de España",
+        "url_imagen": "banderas/Spain.png",
+        "monedas": [
+            {
+                "codigo": "EUR",
+                "simbolo": "€",
+                "valor_en_usd": 0.906363
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "República de Eslovenia",
+        "url_imagen": "banderas/Slovenia.png",
+        "monedas": [
+            {
+                "codigo": "EUR",
+                "simbolo": "€",
+                "valor_en_usd": 0.906363
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "Sultanato de Omán",
+        "url_imagen": "banderas/Oman.png",
+        "monedas": [
+            {
+                "codigo": "OMR",
+                "simbolo": "ر.ع.",
+                "valor_en_usd": 0.384497
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "San Pedro y Miquelón",
+        "url_imagen": "banderas/Saint Pierre and Miquelon.png",
+        "monedas": [
+            {
+                "codigo": "EUR",
+                "simbolo": "€",
+                "valor_en_usd": 0.906363
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "Macao, Región Administrativa Especial de la República Popular China",
+        "url_imagen": "banderas/Macau.png",
+        "monedas": [
+            {
+                "codigo": "MOP",
+                "simbolo": "P",
+                "valor_en_usd": 7.999467
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "Serenísima República de San Marino",
+        "url_imagen": "banderas/San Marino.png",
+        "monedas": [
+            {
+                "codigo": "EUR",
+                "simbolo": "€",
+                "valor_en_usd": 0.906363
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "Reino de Lesotho",
+        "url_imagen": "banderas/Lesotho.png",
+        "monedas": [
+            {
+                "codigo": "LSL",
+                "simbolo": "L",
+                "valor_en_usd": 17.494565
+            },
+            {
+                "codigo": "ZAR",
+                "simbolo": "R",
+                "valor_en_usd": 17.493202
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "República de las Islas Marshall",
+        "url_imagen": "banderas/Marshall Islands.png",
+        "monedas": [
+            {
+                "codigo": "USD",
+                "simbolo": "$",
+                "valor_en_usd": 1
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "Sint Maarten",
+        "url_imagen": "banderas/Sint Maarten.png",
+        "monedas": [
+            {
+                "codigo": "ANG",
+                "simbolo": "ƒ",
+                "valor_en_usd": 1.79
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "Islandia",
+        "url_imagen": "banderas/Iceland.png",
+        "monedas": [
+            {
+                "codigo": "ISK",
+                "simbolo": "kr",
+                "valor_en_usd": 135.467592
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "Gran Ducado de Luxemburgo",
+        "url_imagen": "banderas/Luxembourg.png",
+        "monedas": [
+            {
+                "codigo": "EUR",
+                "simbolo": "€",
+                "valor_en_usd": 0.906363
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "República Argentina",
+        "url_imagen": "banderas/Argentina.png",
+        "monedas": [
+            {
+                "codigo": "ARS",
+                "simbolo": "$",
+                "valor_en_usd": 972.75
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "Islas Turcas y Caicos",
+        "url_imagen": "banderas/Turks and Caicos Islands.png",
+        "monedas": [
+            {
+                "codigo": "USD",
+                "simbolo": "$",
+                "valor_en_usd": 1
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "República de Nauru",
+        "url_imagen": "banderas/Nauru.png",
+        "monedas": [
+            {
+                "codigo": "AUD",
+                "simbolo": "$",
+                "valor_en_usd": 1.460584
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "Territorio de los (Keeling) Islas Cocos",
+        "url_imagen": "banderas/Cocos (Keeling) Islands.png",
+        "monedas": [
+            {
+                "codigo": "AUD",
+                "simbolo": "$",
+                "valor_en_usd": 1.460584
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "República Árabe Saharaui Democrática",
+        "url_imagen": "banderas/Western Sahara.png",
+        "monedas": [
+            {
+                "codigo": "DZD",
+                "simbolo": "دج",
+                "valor_en_usd": 132.799613
+            },
+            {
+                "codigo": "MAD",
+                "simbolo": "DH",
+                "valor_en_usd": 9.775205
+            },
+            {
+                "codigo": "MRU",
+                "simbolo": "UM",
+                "valor_en_usd": 39.716688
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "Mancomunidad de Dominica",
+        "url_imagen": "banderas/Dominica.png",
+        "monedas": [
+            {
+                "codigo": "XCD",
+                "simbolo": "$",
+                "valor_en_usd": 2.7
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "República de Costa Rica",
+        "url_imagen": "banderas/Costa Rica.png",
+        "monedas": [
+            {
+                "codigo": "CRC",
+                "simbolo": "₡",
+                "valor_en_usd": 517.672792
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "Mancomunidad de Australia",
+        "url_imagen": "banderas/Australia.png",
+        "monedas": [
+            {
+                "codigo": "AUD",
+                "simbolo": "$",
+                "valor_en_usd": 1.460584
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "Reino de Tailandia",
+        "url_imagen": "banderas/Thailand.png",
+        "monedas": [
+            {
+                "codigo": "THB",
+                "simbolo": "฿",
+                "valor_en_usd": 33.127693
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "República de Haití",
+        "url_imagen": "banderas/Haiti.png",
+        "monedas": [
+            {
+                "codigo": "HTG",
+                "simbolo": "G",
+                "valor_en_usd": 131.887081
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "Tuvalu",
+        "url_imagen": "banderas/Tuvalu.png",
+        "monedas": [
+            {
+                "codigo": "AUD",
+                "simbolo": "$",
+                "valor_en_usd": 1.460584
+            },
+            {
+                "codigo": "TVD",
+                "simbolo": "$",
+                "valor_en_usd": 1.460607
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "República de Honduras",
+        "url_imagen": "banderas/Honduras.png",
+        "monedas": [
+            {
+                "codigo": "HNL",
+                "simbolo": "L",
+                "valor_en_usd": 24.894954
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "República de Guinea Ecuatorial",
+        "url_imagen": "banderas/Equatorial Guinea.png",
+        "monedas": [
+            {
+                "codigo": "XAF",
+                "simbolo": "Fr",
+                "valor_en_usd": 594.534431
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "Santa Lucía",
+        "url_imagen": "banderas/Saint Lucia.png",
+        "monedas": [
+            {
+                "codigo": "XCD",
+                "simbolo": "$",
+                "valor_en_usd": 2.7
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "Polinesia francés",
+        "url_imagen": "banderas/French Polynesia.png",
+        "monedas": [
+            {
+                "codigo": "XPF",
+                "simbolo": "₣",
+                "valor_en_usd": 108.157978
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "República de Belarús",
+        "url_imagen": "banderas/Belarus.png",
+        "monedas": [
+            {
+                "codigo": "BYN",
+                "simbolo": "Br",
+                "valor_en_usd": 3.262037
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "República de Letonia",
+        "url_imagen": "banderas/Latvia.png",
+        "monedas": [
+            {
+                "codigo": "EUR",
+                "simbolo": "€",
+                "valor_en_usd": 0.906363
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "República de Palau",
+        "url_imagen": "banderas/Palau.png",
+        "monedas": [
+            {
+                "codigo": "USD",
+                "simbolo": "$",
+                "valor_en_usd": 1
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "Guadalupe",
+        "url_imagen": "banderas/Guadeloupe.png",
+        "monedas": [
+            {
+                "codigo": "EUR",
+                "simbolo": "€",
+                "valor_en_usd": 0.906363
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "República de las Filipinas",
+        "url_imagen": "banderas/Philippines.png",
+        "monedas": [
+            {
+                "codigo": "PHP",
+                "simbolo": "₱",
+                "valor_en_usd": 56.41124
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "Gibraltar",
+        "url_imagen": "banderas/Gibraltar.png",
+        "monedas": [
+            {
+                "codigo": "GIP",
+                "simbolo": "£",
+                "valor_en_usd": 0.761794
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "Reino de Dinamarca",
+        "url_imagen": "banderas/Denmark.png",
+        "monedas": [
+            {
+                "codigo": "DKK",
+                "simbolo": "kr",
+                "valor_en_usd": 6.761529
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "República de Camerún",
+        "url_imagen": "banderas/Cameroon.png",
+        "monedas": [
+            {
+                "codigo": "XAF",
+                "simbolo": "Fr",
+                "valor_en_usd": 594.534431
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "República de Guinea",
+        "url_imagen": "banderas/Guinea.png",
+        "monedas": [
+            {
+                "codigo": "GNF",
+                "simbolo": "Fr",
+                "valor_en_usd": 8659.537243
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "Reino de Bahrein",
+        "url_imagen": "banderas/Bahrain.png",
+        "monedas": [
+            {
+                "codigo": "BHD",
+                "simbolo": ".د.ب",
+                "valor_en_usd": 0.376
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "República de Suriname",
+        "url_imagen": "banderas/Suriname.png",
+        "monedas": [
+            {
+                "codigo": "SRD",
+                "simbolo": "$",
+                "valor_en_usd": 31.071377
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "República Democrática del Congo",
+        "url_imagen": "banderas/DR Congo.png",
+        "monedas": [
+            {
+                "codigo": "CDF",
+                "simbolo": "FC",
+                "valor_en_usd": 2845.98423
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "República Federal de Somalia",
+        "url_imagen": "banderas/Somalia.png",
+        "monedas": [
+            {
+                "codigo": "SOS",
+                "simbolo": "Sh",
+                "valor_en_usd": 571.413551
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "República Checa",
+        "url_imagen": "banderas/Czechia.png",
+        "monedas": [
+            {
+                "codigo": "CZK",
+                "simbolo": "Kč",
+                "valor_en_usd": 22.962632
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "nueva Caledonia",
+        "url_imagen": "banderas/New Caledonia.png",
+        "monedas": [
+            {
+                "codigo": "XPF",
+                "simbolo": "₣",
+                "valor_en_usd": 108.157978
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "República de Vanuatu",
+        "url_imagen": "banderas/Vanuatu.png",
+        "monedas": [
+            {
+                "codigo": "VUV",
+                "simbolo": "Vt",
+                "valor_en_usd": 117.937826
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "Santa Elena, Ascensión y Tristán de Acuña",
+        "url_imagen": "banderas/Saint Helena, Ascension and Tristan da Cunha.png",
+        "monedas": [
+            {
+                "codigo": "GBP",
+                "simbolo": "£",
+                "valor_en_usd": 0.761781
+            },
+            {
+                "codigo": "SHP",
+                "simbolo": "£",
+                "valor_en_usd": 0.761794
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "República de Togo",
+        "url_imagen": "banderas/Togo.png",
+        "monedas": [
+            {
+                "codigo": "XOF",
+                "simbolo": "Fr",
+                "valor_en_usd": 594.534431
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "Islas Vírgenes",
+        "url_imagen": "banderas/British Virgin Islands.png",
+        "monedas": [
+            {
+                "codigo": "USD",
+                "simbolo": "$",
+                "valor_en_usd": 1
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "República de Kenya",
+        "url_imagen": "banderas/Kenya.png",
+        "monedas": [
+            {
+                "codigo": "KES",
+                "simbolo": "Sh",
+                "valor_en_usd": 129.037524
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "Niue",
+        "url_imagen": "banderas/Niue.png",
+        "monedas": [
+            {
+                "codigo": "NZD",
+                "simbolo": "$",
+                "valor_en_usd": 1.608238
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "Islas Heard y McDonald",
+        "url_imagen": "banderas/Heard Island and McDonald Islands.png",
+        "monedas": []
+    },
+    {
+        "nombre_oficial": "República de Rwanda",
+        "url_imagen": "banderas/Rwanda.png",
+        "monedas": [
+            {
+                "codigo": "RWF",
+                "simbolo": "Fr",
+                "valor_en_usd": 1373.006033
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "República de Estonia",
+        "url_imagen": "banderas/Estonia.png",
+        "monedas": [
+            {
+                "codigo": "EUR",
+                "simbolo": "€",
+                "valor_en_usd": 0.906363
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "Rumania",
+        "url_imagen": "banderas/Romania.png",
+        "monedas": [
+            {
+                "codigo": "RON",
+                "simbolo": "lei",
+                "valor_en_usd": 4.509073
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "República de Trinidad y Tobago",
+        "url_imagen": "banderas/Trinidad and Tobago.png",
+        "monedas": [
+            {
+                "codigo": "TTD",
+                "simbolo": "$",
+                "valor_en_usd": 6.750476
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "República Cooperativa de Guyana",
+        "url_imagen": "banderas/Guyana.png",
+        "monedas": [
+            {
+                "codigo": "GYD",
+                "simbolo": "$",
+                "valor_en_usd": 209.030262
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "República Democrática de Timor-Leste",
+        "url_imagen": "banderas/Timor-Leste.png",
+        "monedas": [
+            {
+                "codigo": "USD",
+                "simbolo": "$",
+                "valor_en_usd": 1
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "República Socialista de Vietnam",
+        "url_imagen": "banderas/Vietnam.png",
+        "monedas": [
+            {
+                "codigo": "VND",
+                "simbolo": "₫",
+                "valor_en_usd": 24747.328821
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "República Oriental del Uruguay",
+        "url_imagen": "banderas/Uruguay.png",
+        "monedas": [
+            {
+                "codigo": "UYU",
+                "simbolo": "$",
+                "valor_en_usd": 41.766451
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "Ciudad del Vaticano",
+        "url_imagen": "banderas/Vatican City.png",
+        "monedas": [
+            {
+                "codigo": "EUR",
+                "simbolo": "€",
+                "valor_en_usd": 0.906363
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "Hong Kong Región Administrativa Especial de la República Popular China",
+        "url_imagen": "banderas/Hong Kong.png",
+        "monedas": [
+            {
+                "codigo": "HKD",
+                "simbolo": "$",
+                "valor_en_usd": 7.766355
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "República de Austria",
+        "url_imagen": "banderas/Austria.png",
+        "monedas": [
+            {
+                "codigo": "EUR",
+                "simbolo": "€",
+                "valor_en_usd": 0.906363
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "Antigua y Barbuda",
+        "url_imagen": "banderas/Antigua and Barbuda.png",
+        "monedas": [
+            {
+                "codigo": "XCD",
+                "simbolo": "$",
+                "valor_en_usd": 2.7
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "Turkmenistán",
+        "url_imagen": "banderas/Turkmenistan.png",
+        "monedas": [
+            {
+                "codigo": "TMT",
+                "simbolo": "m",
+                "valor_en_usd": 3.499195
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "República de Mozambique",
+        "url_imagen": "banderas/Mozambique.png",
+        "monedas": [
+            {
+                "codigo": "MZN",
+                "simbolo": "MT",
+                "valor_en_usd": 63.89697
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "República de Panamá",
+        "url_imagen": "banderas/Panama.png",
+        "monedas": [
+            {
+                "codigo": "PAB",
+                "simbolo": "B/.",
+                "valor_en_usd": 1
+            },
+            {
+                "codigo": "USD",
+                "simbolo": "$",
+                "valor_en_usd": 1
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "Estados Federados de Micronesia",
+        "url_imagen": "banderas/Micronesia.png",
+        "monedas": [
+            {
+                "codigo": "USD",
+                "simbolo": "$",
+                "valor_en_usd": 1
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "República de Irlanda",
+        "url_imagen": "banderas/Ireland.png",
+        "monedas": [
+            {
+                "codigo": "EUR",
+                "simbolo": "€",
+                "valor_en_usd": 0.906363
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "País de Curazao",
+        "url_imagen": "banderas/Curaçao.png",
+        "monedas": [
+            {
+                "codigo": "ANG",
+                "simbolo": "ƒ",
+                "valor_en_usd": 1.79
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "Guayana",
+        "url_imagen": "banderas/French Guiana.png",
+        "monedas": [
+            {
+                "codigo": "EUR",
+                "simbolo": "€",
+                "valor_en_usd": 0.906363
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "Reino de Noruega",
+        "url_imagen": "banderas/Norway.png",
+        "monedas": [
+            {
+                "codigo": "NOK",
+                "simbolo": "kr",
+                "valor_en_usd": 10.607495
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "Islas Åland",
+        "url_imagen": "banderas/Åland Islands.png",
+        "monedas": [
+            {
+                "codigo": "EUR",
+                "simbolo": "€",
+                "valor_en_usd": 0.906363
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "República Centroafricana",
+        "url_imagen": "banderas/Central African Republic.png",
+        "monedas": [
+            {
+                "codigo": "XAF",
+                "simbolo": "Fr",
+                "valor_en_usd": 594.534431
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "Burkina Faso",
+        "url_imagen": "banderas/Burkina Faso.png",
+        "monedas": [
+            {
+                "codigo": "XOF",
+                "simbolo": "Fr",
+                "valor_en_usd": 594.534431
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "Estado de Eritrea",
+        "url_imagen": "banderas/Eritrea.png",
+        "monedas": [
+            {
+                "codigo": "ERN",
+                "simbolo": "Nfk",
+                "valor_en_usd": 15
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "República Unida de Tanzania",
+        "url_imagen": "banderas/Tanzania.png",
+        "monedas": [
+            {
+                "codigo": "TZS",
+                "simbolo": "Sh",
+                "valor_en_usd": 2722.633588
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "República de Corea",
+        "url_imagen": "banderas/South Korea.png",
+        "monedas": [
+            {
+                "codigo": "KRW",
+                "simbolo": "₩",
+                "valor_en_usd": 1334.133247
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "Reino Hachemita de Jordania",
+        "url_imagen": "banderas/Jordan.png",
+        "monedas": [
+            {
+                "codigo": "JOD",
+                "simbolo": "د.ا",
+                "valor_en_usd": 0.709
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "República Islámica de Mauritania",
+        "url_imagen": "banderas/Mauritania.png",
+        "monedas": [
+            {
+                "codigo": "MRU",
+                "simbolo": "UM",
+                "valor_en_usd": 39.716688
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "República de Lituania",
+        "url_imagen": "banderas/Lithuania.png",
+        "monedas": [
+            {
+                "codigo": "EUR",
+                "simbolo": "€",
+                "valor_en_usd": 0.906363
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "Estados Unidos Islas menores alejadas de",
+        "url_imagen": "banderas/United States Minor Outlying Islands.png",
+        "monedas": [
+            {
+                "codigo": "USD",
+                "simbolo": "$",
+                "valor_en_usd": 1
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "República Eslovaca",
+        "url_imagen": "banderas/Slovakia.png",
+        "monedas": [
+            {
+                "codigo": "EUR",
+                "simbolo": "€",
+                "valor_en_usd": 0.906363
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "República de Angola",
+        "url_imagen": "banderas/Angola.png",
+        "monedas": [
+            {
+                "codigo": "AOA",
+                "simbolo": "Kz",
+                "valor_en_usd": 947.445807
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "República de Kazajstán",
+        "url_imagen": "banderas/Kazakhstan.png",
+        "monedas": [
+            {
+                "codigo": "KZT",
+                "simbolo": "₸",
+                "valor_en_usd": 482.515273
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "República de Moldova",
+        "url_imagen": "banderas/Moldova.png",
+        "monedas": [
+            {
+                "codigo": "MDL",
+                "simbolo": "L",
+                "valor_en_usd": 17.485321
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "República de Malí",
+        "url_imagen": "banderas/Mali.png",
+        "monedas": [
+            {
+                "codigo": "XOF",
+                "simbolo": "Fr",
+                "valor_en_usd": 594.534431
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "islas Malvinas",
+        "url_imagen": "banderas/Falkland Islands.png",
+        "monedas": [
+            {
+                "codigo": "FKP",
+                "simbolo": "£",
+                "valor_en_usd": 0.761794
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "República de Armenia",
+        "url_imagen": "banderas/Armenia.png",
+        "monedas": [
+            {
+                "codigo": "AMD",
+                "simbolo": "֏",
+                "valor_en_usd": 386.968703
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "Estado Independiente de Samoa",
+        "url_imagen": "banderas/Samoa.png",
+        "monedas": [
+            {
+                "codigo": "WST",
+                "simbolo": "T",
+                "valor_en_usd": 2.702427
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "Bailía de Jersey",
+        "url_imagen": "banderas/Jersey.png",
+        "monedas": [
+            {
+                "codigo": "GBP",
+                "simbolo": "£",
+                "valor_en_usd": 0.761781
+            },
+            {
+                "codigo": "JEP",
+                "simbolo": "£",
+                "valor_en_usd": 0.761794
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "Japón",
+        "url_imagen": "banderas/Japan.png",
+        "monedas": [
+            {
+                "codigo": "JPY",
+                "simbolo": "¥",
+                "valor_en_usd": 146.788773
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "Estado Plurinacional de Bolivia",
+        "url_imagen": "banderas/Bolivia.png",
+        "monedas": [
+            {
+                "codigo": "BOB",
+                "simbolo": "Bs.",
+                "valor_en_usd": 6.920104
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "República de Chile",
+        "url_imagen": "banderas/Chile.png",
+        "monedas": [
+            {
+                "codigo": "CLP",
+                "simbolo": "$",
+                "valor_en_usd": 911.807115
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "Estados Unidos de América",
+        "url_imagen": "banderas/United States.png",
+        "monedas": [
+            {
+                "codigo": "USD",
+                "simbolo": "$",
+                "valor_en_usd": 1
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "San Vicente y las Granadinas",
+        "url_imagen": "banderas/Saint Vincent and the Grenadines.png",
+        "monedas": [
+            {
+                "codigo": "XCD",
+                "simbolo": "$",
+                "valor_en_usd": 2.7
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "Bermuda",
+        "url_imagen": "banderas/Bermuda.png",
+        "monedas": [
+            {
+                "codigo": "BMD",
+                "simbolo": "$",
+                "valor_en_usd": 1
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "República de las Seychelles",
+        "url_imagen": "banderas/Seychelles.png",
+        "monedas": [
+            {
+                "codigo": "SCR",
+                "simbolo": "₨",
+                "valor_en_usd": 13.642253
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "Territorio Británico del Océano Índico",
+        "url_imagen": "banderas/British Indian Ocean Territory.png",
+        "monedas": [
+            {
+                "codigo": "USD",
+                "simbolo": "$",
+                "valor_en_usd": 1
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "República de Guatemala",
+        "url_imagen": "banderas/Guatemala.png",
+        "monedas": [
+            {
+                "codigo": "GTQ",
+                "simbolo": "Q",
+                "valor_en_usd": 7.73027
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "República del Ecuador",
+        "url_imagen": "banderas/Ecuador.png",
+        "monedas": [
+            {
+                "codigo": "USD",
+                "simbolo": "$",
+                "valor_en_usd": 1
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "Martinica",
+        "url_imagen": "banderas/Martinique.png",
+        "monedas": [
+            {
+                "codigo": "EUR",
+                "simbolo": "€",
+                "valor_en_usd": 0.906363
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "República de Tayikistán",
+        "url_imagen": "banderas/Tajikistan.png",
+        "monedas": [
+            {
+                "codigo": "TJS",
+                "simbolo": "ЅМ",
+                "valor_en_usd": 10.666201
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "República de Malta",
+        "url_imagen": "banderas/Malta.png",
+        "monedas": [
+            {
+                "codigo": "EUR",
+                "simbolo": "€",
+                "valor_en_usd": 0.906363
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "República de Gambia",
+        "url_imagen": "banderas/Gambia.png",
+        "monedas": [
+            {
+                "codigo": "GMD",
+                "simbolo": "D",
+                "valor_en_usd": 70.678728
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "República Federal de Nigeria",
+        "url_imagen": "banderas/Nigeria.png",
+        "monedas": [
+            {
+                "codigo": "NGN",
+                "simbolo": "₦",
+                "valor_en_usd": 1657.734315
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "Commonwealth de las Bahamas",
+        "url_imagen": "banderas/Bahamas.png",
+        "monedas": [
+            {
+                "codigo": "BSD",
+                "simbolo": "$",
+                "valor_en_usd": 1
+            },
+            {
+                "codigo": "USD",
+                "simbolo": "$",
+                "valor_en_usd": 1
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "República de Kosovo",
+        "url_imagen": "banderas/Kosovo.png",
+        "monedas": [
+            {
+                "codigo": "EUR",
+                "simbolo": "€",
+                "valor_en_usd": 0.906363
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "Estado de Kuwait",
+        "url_imagen": "banderas/Kuwait.png",
+        "monedas": [
+            {
+                "codigo": "KWD",
+                "simbolo": "د.ك",
+                "valor_en_usd": 0.305769
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "República de las Maldivas",
+        "url_imagen": "banderas/Maldives.png",
+        "monedas": [
+            {
+                "codigo": "MVR",
+                "simbolo": ".ރ",
+                "valor_en_usd": 15.438059
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "República de Sudán del Sur",
+        "url_imagen": "banderas/South Sudan.png",
+        "monedas": [
+            {
+                "codigo": "SSP",
+                "simbolo": "£",
+                "valor_en_usd": 3156.170678
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "República Islámica de Irán",
+        "url_imagen": "banderas/Iran.png",
+        "monedas": [
+            {
+                "codigo": "IRR",
+                "simbolo": "﷼",
+                "valor_en_usd": 42056.322726
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "República de Albania",
+        "url_imagen": "banderas/Albania.png",
+        "monedas": [
+            {
+                "codigo": "ALL",
+                "simbolo": "L",
+                "valor_en_usd": 89.560066
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "República Federativa del Brasil",
+        "url_imagen": "banderas/Brazil.png",
+        "monedas": [
+            {
+                "codigo": "BRL",
+                "simbolo": "R$",
+                "valor_en_usd": 5.459814
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "República de Serbia",
+        "url_imagen": "banderas/Serbia.png",
+        "monedas": [
+            {
+                "codigo": "RSD",
+                "simbolo": "дин.",
+                "valor_en_usd": 106.129633
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "Belice",
+        "url_imagen": "banderas/Belize.png",
+        "monedas": [
+            {
+                "codigo": "BZD",
+                "simbolo": "$",
+                "valor_en_usd": 2
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "República de la Unión de Myanmar",
+        "url_imagen": "banderas/Myanmar.png",
+        "monedas": [
+            {
+                "codigo": "MMK",
+                "simbolo": "Ks",
+                "valor_en_usd": 2100.551065
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "Reino de Bután",
+        "url_imagen": "banderas/Bhutan.png",
+        "monedas": [
+            {
+                "codigo": "BTN",
+                "simbolo": "Nu.",
+                "valor_en_usd": 84.017049
+            },
+            {
+                "codigo": "INR",
+                "simbolo": "₹",
+                "valor_en_usd": 84.017083
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "República Bolivariana de Venezuela",
+        "url_imagen": "banderas/Venezuela.png",
+        "monedas": [
+            {
+                "codigo": "VES",
+                "simbolo": "Bs.S.",
+                "valor_en_usd": 36.9855
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "República de Liberia",
+        "url_imagen": "banderas/Liberia.png",
+        "monedas": [
+            {
+                "codigo": "LRD",
+                "simbolo": "$",
+                "valor_en_usd": 193.204879
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "Jamaica",
+        "url_imagen": "banderas/Jamaica.png",
+        "monedas": [
+            {
+                "codigo": "JMD",
+                "simbolo": "$",
+                "valor_en_usd": 157.88964
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "República de Polonia",
+        "url_imagen": "banderas/Poland.png",
+        "monedas": [
+            {
+                "codigo": "PLN",
+                "simbolo": "zł",
+                "valor_en_usd": 3.902371
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "Islas Caimán",
+        "url_imagen": "banderas/Cayman Islands.png",
+        "monedas": [
+            {
+                "codigo": "KYD",
+                "simbolo": "$",
+                "valor_en_usd": 0.833333
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "Nación de Brunei, Morada de la Paz",
+        "url_imagen": "banderas/Brunei.png",
+        "monedas": [
+            {
+                "codigo": "BND",
+                "simbolo": "$",
+                "valor_en_usd": 1.296994
+            },
+            {
+                "codigo": "SGD",
+                "simbolo": "$",
+                "valor_en_usd": 1.296981
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "Unión de las Comoras",
+        "url_imagen": "banderas/Comoros.png",
+        "monedas": [
+            {
+                "codigo": "KMF",
+                "simbolo": "Fr",
+                "valor_en_usd": 445.900823
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "Guam",
+        "url_imagen": "banderas/Guam.png",
+        "monedas": [
+            {
+                "codigo": "USD",
+                "simbolo": "$",
+                "valor_en_usd": 1
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "Reino de Tonga",
+        "url_imagen": "banderas/Tonga.png",
+        "monedas": [
+            {
+                "codigo": "TOP",
+                "simbolo": "T$",
+                "valor_en_usd": 2.299327
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "República Independiente y Soberano de Kiribati",
+        "url_imagen": "banderas/Kiribati.png",
+        "monedas": [
+            {
+                "codigo": "AUD",
+                "simbolo": "$",
+                "valor_en_usd": 1.460584
+            },
+            {
+                "codigo": "KID",
+                "simbolo": "$",
+                "valor_en_usd": 1.460607
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "República de Ghana",
+        "url_imagen": "banderas/Ghana.png",
+        "monedas": [
+            {
+                "codigo": "GHS",
+                "simbolo": "₵",
+                "valor_en_usd": 15.836294
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "República de Chad",
+        "url_imagen": "banderas/Chad.png",
+        "monedas": [
+            {
+                "codigo": "XAF",
+                "simbolo": "Fr",
+                "valor_en_usd": 594.534431
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "República de Zimbabue",
+        "url_imagen": "banderas/Zimbabwe.png",
+        "monedas": [
+            {
+                "codigo": "ZWL",
+                "simbolo": "$",
+                "valor_en_usd": 25.2813
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "Saint Martin",
+        "url_imagen": "banderas/Saint Martin.png",
+        "monedas": [
+            {
+                "codigo": "EUR",
+                "simbolo": "€",
+                "valor_en_usd": 0.906363
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "Mongolia",
+        "url_imagen": "banderas/Mongolia.png",
+        "monedas": [
+            {
+                "codigo": "MNT",
+                "simbolo": "₮",
+                "valor_en_usd": 3413.533238
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "República Portuguesa",
+        "url_imagen": "banderas/Portugal.png",
+        "monedas": [
+            {
+                "codigo": "EUR",
+                "simbolo": "€",
+                "valor_en_usd": 0.906363
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "Samoa Americana",
+        "url_imagen": "banderas/American Samoa.png",
+        "monedas": [
+            {
+                "codigo": "USD",
+                "simbolo": "$",
+                "valor_en_usd": 1
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "República del Congo",
+        "url_imagen": "banderas/Republic of the Congo.png",
+        "monedas": [
+            {
+                "codigo": "XAF",
+                "simbolo": "Fr",
+                "valor_en_usd": 594.534431
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "Reino de Bélgica",
+        "url_imagen": "banderas/Belgium.png",
+        "monedas": [
+            {
+                "codigo": "EUR",
+                "simbolo": "€",
+                "valor_en_usd": 0.906363
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "Estado de Israel",
+        "url_imagen": "banderas/Israel.png",
+        "monedas": [
+            {
+                "codigo": "ILS",
+                "simbolo": "₪",
+                "valor_en_usd": 3.798453
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "nueva Zelanda",
+        "url_imagen": "banderas/New Zealand.png",
+        "monedas": [
+            {
+                "codigo": "NZD",
+                "simbolo": "$",
+                "valor_en_usd": 1.608238
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "República de Nicaragua",
+        "url_imagen": "banderas/Nicaragua.png",
+        "monedas": [
+            {
+                "codigo": "NIO",
+                "simbolo": "C$",
+                "valor_en_usd": 36.761269
+            }
+        ]
+    },
+    {
+        "nombre_oficial": "Anguila",
+        "url_imagen": "banderas/Anguilla.png",
+        "monedas": [
+            {
+                "codigo": "XCD",
+                "simbolo": "$",
+                "valor_en_usd": 2.7
+            }
+        ]
+    }
+]
