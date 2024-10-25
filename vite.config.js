@@ -8,10 +8,25 @@ export default defineConfig({
     react(),
     VitePWA({
       registerType: 'autoUpdate',
+      workbox: {
+        runtimeCaching: [
+          {
+            urlPattern: /^https:\/\/.*\.(?:png|jpg|jpeg|svg)$/,
+            handler: 'CacheFirst',
+            options: {
+              cacheName: 'images-cache',
+              expiration: {
+                maxEntries: 50,
+                maxAgeSeconds: 30 * 24 * 60 * 60,
+              },
+            },
+          },
+        ],
+      },
       manifest: {
-        name: 'My PWA App',
-        short_name: 'PWA App',
-        description: 'My Progressive Web App with Splash Screen',
+        name: 'Casa De Cambio APP',
+        short_name: 'Aplicación para una casa de cambio',
+        description: 'Aplicación que simula una casa de cambio',
         theme_color: '#ffffff',
         background_color: '#ffffff',
         display: 'standalone',
