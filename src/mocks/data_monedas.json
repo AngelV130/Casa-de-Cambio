@@ -1,0 +1,101 @@
+[
+    {
+        "name": "Dólar Estadounidense",
+        "code": "USD",
+        "rates": {
+            "buy": 1,
+            "sell": 1
+        },
+        "flag_icon": "🇺🇸"
+    },
+    {
+        "name": "Euro",
+        "code": "EUR",
+        "rates": {
+            "buy": 1.07,
+            "sell": 1.08
+        },
+        "flag_icon": "🇪🇺"
+    },
+    {
+        "name": "Libra Esterlina",
+        "code": "GBP",
+        "rates": {
+            "buy": 1.21,
+            "sell": 1.22
+        },
+        "flag_icon": "🇬🇧"
+    },
+    {
+        "name": "Dólar Canadiense",
+        "code": "CAD",
+        "rates": {
+            "buy": 0.73,
+            "sell": 0.74
+        },
+        "flag_icon": "🇨🇦"
+    },
+    {
+        "name": "Yen Japonés",
+        "code": "JPY",
+        "rates": {
+            "buy": 0.0067,
+            "sell": 0.0068
+        },
+        "flag_icon": "🇯🇵"
+    },
+    {
+        "name": "Franco Suizo",
+        "code": "CHF",
+        "rates": {
+            "buy": 1.1,
+            "sell": 1.12
+        },
+        "flag_icon": "🇨🇭"
+    },
+    {
+        "name": "Yuan Chino",
+        "code": "CNY",
+        "rates": {
+            "buy": 0.14,
+            "sell": 0.15
+        },
+        "flag_icon": "🇨🇳"
+    },
+    {
+        "name": "Dólar Australiano",
+        "code": "AUD",
+        "rates": {
+            "buy": 0.63,
+            "sell": 0.64
+        },
+        "flag_icon": "🇦🇺"
+    },
+    {
+        "name": "Real Brasileño",
+        "code": "BRL",
+        "rates": {
+            "buy": 0.2,
+            "sell": 0.21
+        },
+        "flag_icon": "🇧🇷"
+    },
+    {
+        "name": "Rupia India",
+        "code": "INR",
+        "rates": {
+            "buy": 0.012,
+            "sell": 0.013
+        },
+        "flag_icon": "🇮🇳"
+    },
+    {
+        "name": "Peso Mexicano",
+        "code": "MXN",
+        "rates": {
+            "buy": 0.05,
+            "sell": 0.051
+        },
+        "flag_icon": "🇲🇽"
+    }
+]

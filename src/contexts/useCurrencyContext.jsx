@@ -4,28 +4,8 @@ import React, { createContext, useContext, useState } from 'react';
 const CurrencyContext = createContext();
 
 export const CurrencyProvider = ({ children }) => {
-  const [fromCurrency, setFromCurrency] = useState({
-    "nombre_oficial": "Estados Unidos Mexicanos",
-    "url_imagen": "banderas/Mexico.png",
-    "monedas": [
-        {
-            "codigo": "MXN",
-            "simbolo": "$",
-            "valor_en_usd": 19.412767
-        }
-    ]
-});
-  const [toCurrency, setToCurrency] = useState({
-    "nombre_oficial": "Georgia del Sur y las Islas Sandwich del Sur",
-    "url_imagen": "banderas/South Georgia.png",
-    "monedas": [
-        {
-            "codigo": "SHP",
-            "simbolo": "£",
-            "valor_en_usd": 0.761794
-        }
-    ]
-});
+  const [fromCurrency, setFromCurrency] = useState();
+  const [toCurrency, setToCurrency] = useState();
 
   const swapCurrencies = () => {
     setFromCurrency(toCurrency);
