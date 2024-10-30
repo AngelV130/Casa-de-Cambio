@@ -5,17 +5,23 @@ import AddCountries from './AddCountries';
 import { useCurrency } from '../contexts/useCurrencyContext';
 
 
-export default function Countries({ setCalculate, from, countries }) {
+export default function Countries({ setCalculate, from, countries, setCountries }) {
   const currency = useCurrency();
   const [searchTerm, setSearchTerm] = useState('');
   const [modal, setModal] = useState(false);
   const [dataSelected, setDataSelected] = useState();
   const [filteredCurrencies, setFilteredCurrencies] = useState();
-  function changueCountry(newCurrency) {
+  function changueCountry(newCurrency, type) {
     if (from) {
-      currency.changeCurrency('from', newCurrency);
+      currency.changeCurrency('from', {
+        ...newCurrency,
+        value: type == 'venta' ? newCurrency.rates.buy : newCurrency.rates.sell,
+    });
     } else {
-      currency.changeCurrency('to', newCurrency);
+      currency.changeCurrency('to', {
+        ...newCurrency,
+        value: type == 'venta' ? newCurrency.rates.buy : newCurrency.rates.sell,
+    });
     }
     setCalculate(true)
   }
@@ -24,13 +30,14 @@ export default function Countries({ setCalculate, from, countries }) {
     setDataSelected({
       name: data?.name || '',
       code: data?.code || '',
-      exchangeRate: data?.rates.buy || '',
+      rates: data?.rates || {buy: 1, sell: 1},
       image: data?.flag_icon || '',
       index: index,
     });
   }
   useEffect(() => {
-    console.log(countries)
+
+    setFilteredCurrencies(countries);
   }, [])
   return (
     <div className="min-h-screen bg-gray-900 text-white p-4">
@@ -41,12 +48,14 @@ export default function Countries({ setCalculate, from, countries }) {
           currencies.push(currency);
           setModal(false);
         }}
+        setCountries={setCountries}
+        setFilteredCurrencies={setFilteredCurrencies}
         data={{
           name: dataSelected?.name || '',
           code: dataSelected?.code || '',
-          exchangeRate: dataSelected?.exchangeRate || '',
-          image: dataSelected?.image || '',
-          index: dataSelected?.index
+          rates: dataSelected?.rates || {buy: 1, sell: 1},
+          image: dataSelected?.flag_icon || '',
+          index: dataSelected?.index,
         }}
       />
 
@@ -66,13 +75,19 @@ export default function Countries({ setCalculate, from, countries }) {
             onChange={
               (e) => {
                 setSearchTerm(e.target.value);
+                // Filtrado para el buscador 
+                setFilteredCurrencies(
+                  countries.filter((currency) => {
+                    return currency.name.toLowerCase().includes(e.target.value.toLowerCase())
+                  })
+                );
               }
             }
           />
           <span className="absolute left-3 top-1/2 transform -translate-y-1/2 text-gray-400">&#128269;</span>
         </div>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
-          {countries && countries.map((currency, index) => (
+          {filteredCurrencies && filteredCurrencies.map((currency, index) => (
             <div key={currency.code + currency.name} 
             className="bg-gray-800 p-4 pb-12 rounded-md hover:scale-105 hover:cursor-pointer relative"
 
@@ -84,12 +99,12 @@ export default function Countries({ setCalculate, from, countries }) {
               </span>
               <div className='grid grid-cols-2 mt-3 mb-2 gap-5'>
                 <button className=' right-3 bottom-2 border hover:bg-slate-400 hover:bg-opacity-40'
-                  onClick={() => {changueCountry(currency) }}
+                  onClick={() => {changueCountry(currency, 'compra') }}
                 >
                   Compra
                 </button>
                 <button className=' right-3 bottom-2 border hover:bg-slate-400 hover:bg-opacity-40'
-                  onClick={() => {changueCountry(currency) }}
+                  onClick={() => {changueCountry(currency, 'venta') }}
                 >
                   Vender
                 </button>

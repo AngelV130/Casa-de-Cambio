@@ -1,9 +1,10 @@
 import React, { useState, useEffect } from 'react';
 
-export default function CurrencyModal({ isOpen, onClose, onAdd, data }) {
+export default function CurrencyModal({ isOpen, onClose, onAdd, data, setCountries, setFilteredCurrencies }) {
   const [name, setName] = useState(data?.name);
   const [code, setCode] = useState(data?.code);
-  const [exchangeRate, setExchangeRate] = useState(data?.exchangeRate);
+  const [buy, setBuy] = useState(data?.rates.sell);
+  const [sell, setSell] = useState(data?.rates.buy);
   const [image, setImage] = useState(data?.image);
   const [index, setIndex] = useState(data?.image);
   const currencies = JSON.parse(localStorage.getItem('countries')) || [];
@@ -16,41 +17,43 @@ export default function CurrencyModal({ isOpen, onClose, onAdd, data }) {
   useEffect(() => {
     setName(data?.name);
     setCode(data?.code);
-    setExchangeRate(data?.exchangeRate);
+    setBuy(data?.rates.sell);
+    setSell(data?.rates.buy);
     setImage(data?.image);
     setIndex(data?.index);
   },[data])
   function save(){
     const data = {
-        "nombre_oficial": name,
-        "url_imagen": image,
-        "monedas": [
-            {
-                "codigo": code,
-                "simbolo": code,
-                "valor_en_usd": parseFloat(exchangeRate)
-            }
-        ]
+        "name": name,
+        "flag_icon": image,
+        "code": code,
+        "rates": {
+            "buy": parseFloat(buy),
+            "sell": parseFloat(sell),
+        },
     }
     currencies.push(data);
     localStorage.setItem('countries', JSON.stringify(currencies));
+    setCountries(currencies);
+    setFilteredCurrencies(currencies);
     onClose();
   }
   function edit(){
     const data = {
-        "nombre_oficial": name,
-        "url_imagen": image,
-        "monedas": [
-            {
-                "codigo": code,
-                "simbolo": code,
-                "valor_en_usd": parseFloat(exchangeRate)
-            }
-        ]
+        "name": name,
+        "flag_icon": image,
+        "code": code,
+        "rates": {
+            "buy": parseFloat(buy),
+            "sell": parseFloat(sell),
+        },
     }
+
     currencies[Number(index)] = data;
     console.log(currencies[Number(index)]);
     localStorage.setItem('countries', JSON.stringify(currencies));
+    setCountries(currencies);
+    setFilteredCurrencies(currencies);
     onClose();
   }
 
@@ -85,12 +88,25 @@ export default function CurrencyModal({ isOpen, onClose, onAdd, data }) {
             <input
               type="number"
               step="0.01"
-              placeholder="Tipo de cambio a UDS"
+              placeholder="Tipo de cambio a UDS (compra)"
               className="w-full bg-gray-700 text-white p-2 rounded"
-              value={exchangeRate}
-              onChange={(e) => setExchangeRate(e.target.value)}
+              value={buy}
+              onChange={(e) => setBuy(e.target.value)}
               required
             />
+            
+          </div>
+          <div className="mb-4">
+            <input
+              type="number"
+              step="0.01"
+              placeholder="Tipo de cambio a UDS (venta)"
+              className="w-full bg-gray-700 text-white p-2 rounded"
+              value={sell}
+              onChange={(e) => setSell(e.target.value)}
+              required
+            />
+            
           </div>
           <div className="mb-4">
             <input

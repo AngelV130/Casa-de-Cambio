@@ -44,6 +44,7 @@ const CurrencyCalculator = ({setCalculate, setFrom}) => {
   const handleSwapCurrencies = () => {
     setFromCurrency(toCurrency);
     setToCurrency(fromCurrency);
+    setAmount(1);
   };
 
   const convertedAmount = (mountA = amount) => {
@@ -130,7 +131,7 @@ const CurrencyCalculator = ({setCalculate, setFrom}) => {
         <div>
           <p>{dateNow()}</p>
           <p>
-            1 {toCurrency.code} = {parseFloat(convertedAmount()).toFixed(4)} {fromCurrency.code}
+            1 {toCurrency.code} = {parseFloat(convertedAmount(1)).toFixed(4)} {fromCurrency.code}
           </p>
         </div>
           <p className='cursor-pointer' onClick={() => {setModalConfigsState(true)}}>

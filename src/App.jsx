@@ -59,7 +59,7 @@ function App() {
     ) : (
       <>
           {
-            !calculate ? <Countries setCalculate={setCalculate} from={from} countries={countries} /> :
+            !calculate ? <Countries setCalculate={setCalculate} from={from} countries={countries} setCountries={setCountries} /> :
             <Calculator setCalculate={setCalculate} setFrom={setFrom} />
           }
       </>

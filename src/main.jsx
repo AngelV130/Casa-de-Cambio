@@ -4,7 +4,7 @@ import App from './App.jsx'
 import './index.css'
 import { CurrencyProvider, useCurrency } from './contexts/useCurrencyContext';
 
-import data from './mocks/datos_paises.json';
+import data from './mocks/data_monedas.json';
 localStorage.getItem('countries') || localStorage.setItem('countries', JSON.stringify(data));
 
 createRoot(document.getElementById('root')).render(
